@@ -4,7 +4,8 @@
   "description": "marketplace project",
   "main": "server.mjs",
   "scripts": {
-    "dev": "nodemon server.mjs"
+    "dev": "nodemon server.mjs",
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
